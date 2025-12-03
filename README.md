@@ -1,6 +1,6 @@
 # Semi-Supervised Abdominal CT Segmentation
 
-This project implements a semi-supervised learning framework for abdominal CT multi-organ segmentation using a 2D nnU-Net architecture. It leverages both labeled and unlabeled data to improve segmentation performance, making it efficient for scenarios with sparse annotations.
+This project implements a semi-supervised learning framework for abdominal CT multi-organ segmentation using a 2D nnU-Net architecture. It leverages both labeled and unlabeled data to improve segmentation performance, making it efficient for scenarios with sparse annotations.[semi_supervised_abdominal_organ_segmentation](https://github.com/KULKERJUN/Computer_vision_research/blob/main/semi_supervised_abdominal_organ_segmentation.pdf)
 
 ## Features
 
@@ -54,3 +54,4 @@ You can modify the `Config` class in the script to adjust parameters like:
 
 - Dataset provided by [kulkerjun on Kaggle](https://www.kaggle.com/datasets/kulkerjun/abdominalct).
 - Original code structure inspired by nnU-Net and semi-supervised learning literature.
+
